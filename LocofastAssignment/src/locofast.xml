@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Locofast" >
+  <method>
+   
+<test name=" Automation of Github " >
+   <classes>
+       <class name="testcases.repoTestcases" />
+   </classes>
+ 
+ </test>
+ 
+ 
+	</method>
+</suite>
+
+
+
+
+
+
+
+
+

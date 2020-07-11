@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Locofast]">
+  <test name=" Automation of Github (failed)">
+    <classes>
+      <class name="testcases.repoTestcases">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="repositoryTestcases"/>
+          <include name="initiate"/>
+        </methods>
+      </class> <!-- testcases.repoTestcases -->
+    </classes>
+  </test> <!--  Automation of Github (failed) -->
+</suite> <!-- Failed suite [Locofast] -->
